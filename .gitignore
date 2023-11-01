@@ -10,6 +10,7 @@ caching_project/obj/
 caching_project/.idea/
 tests/bin/
 tests/obj/
+.idea/
 
 # User-specific files
 *.rsuser
